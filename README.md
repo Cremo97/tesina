@@ -1,0 +1,1 @@
+![](copertina_cremonesi.png)
