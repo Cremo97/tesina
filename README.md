@@ -1,1 +1,1 @@
-![](copertina_cremonesi.png)
+![copertina](copertina_cremonesi.png)
