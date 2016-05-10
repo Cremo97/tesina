@@ -1,9 +1,5 @@
 # internet
-
-
 ---
-
-
 ###definizione
 
 Variamente definita, Internet è praticamente la "rete delle reti", cioè un insieme di reti di computer sparse in tutto il mondo e collegate tra loro, a cui possono accedere migliaia di utenti per scambiare tra loro informazioni binarie di vario tipo. <br/>
