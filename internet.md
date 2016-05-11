@@ -6,7 +6,7 @@ Variamente definita, Internet è praticamente la "rete delle reti", cioè un ins
 Tecnicamente la definizione più corretta di Internet è forse quella di una federazione o un insieme di reti in grado di comunicare utilizzando il set di protocolli TCP/IP.
 
 ###suddivisione
-Internet è diviso in vari livelli, ognuno con diverse caratteristiche.
+Internet è diviso in vari livelli, ognuno con diverse caratteristiche.<br/>
 ![](Img5.png)
 * **Livello 0 (common web):** è quella parte di internet che usiamo tutti i giorni, ospita la maggior parte dei siti che conosciamo.
 * **Livello 1 (surface web):** dove operano i server informatici e siti come Reddit (sito Internet di social news e intrattenimento, dove gli utenti registrati possono pubblicare contenuti sotto forma di post testuali o di collegamenti ipertestuali).
