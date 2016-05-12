@@ -7,7 +7,7 @@ Tecnicamente la definizione più corretta di Internet è forse quella di una fed
 
 ###suddivisione
 Internet è diviso in vari livelli, ognuno con diverse caratteristiche.<br/>
-![width="20" height="10"](Img5.png)
+![](Img5.png) 
 * **Livello 0 (common web):** è quella parte di internet che usiamo tutti i giorni, ospita la maggior parte dei siti che conosciamo.
 * **Livello 1 (surface web):** dove operano i server informatici e siti come Reddit (sito Internet di social news e intrattenimento, dove gli utenti registrati possono pubblicare contenuti sotto forma di post testuali o di collegamenti ipertestuali).
 * **Livello 2 (bergie web):** ultimo livello accessibile senza particolari strumenti e conoscenze, ospita risultati nascosti di Google e siti di video e immagini senza censure.
