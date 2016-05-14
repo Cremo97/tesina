@@ -6,4 +6,4 @@ Per accedere a questa rete nascosta abbiamo bisogno di un software "speciale" ch
 ![](logo_tor.png)<br/>
 Questo programma è semplicemente disponibile sul proprio sito https://www.torproject.org/ nella sezione dei download. Dopo la terminata installazione si aprirà una pagina sulla falsa riga di firefox(come illustrato appena dopo).
 ![](screen_tor.JPG)<br/>
-Arrivati a questo punto non si è ancora nel deep web, ed essendo difficile
+Arrivati a questo punto non si è ancora nel deep web; ora si deve raggiungere il cruscotto della rete nascosta, chiamato "hidden wiki"
