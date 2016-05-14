@@ -7,5 +7,5 @@ Per accedere a questa rete nascosta abbiamo bisogno di un software "speciale" ch
 Questo programma è semplicemente disponibile sul proprio sito https://www.torproject.org/ nella sezione dei download. Dopo la terminata installazione si aprirà una pagina sulla falsa riga di firefox(come illustrato appena dopo).
 ![](screen_tor.JPG)<br/>
 Arrivati a questo punto non si è ancora nel **deep web**; per farlo si deve raggiungere il "cruscotto" di internet sommerso, chiamato "**hidden wiki**", prima di tutto si deve copiare l'indirizzo: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page <br/>
-dopo di che si aprirà una schermata che conterrà la lista dei siti più rilevanti appartenenti al deep web.
+dopo di che si aprirà una schermata che conterrà la lista dei siti più rilevanti appartenenti al deep web.<br/>
 <............IMMAGINE HIDDEN WIKI.............>
