@@ -15,7 +15,6 @@ reale destinatario fuori dalla rete Tor (ad esempio un sito web).
 * Il client Tor di Alice sceglie un percorso per raggiungere la destinazione dei dati.
 * I collegamenti **in verde** sono **crittografati** mentre quelli in rosso sono **non necessariamenti protetti**.
 
+![](tor3.png)
 
-
-
-
+* Il percorso può cambiare in qualsiasi momento al fine di rendere ancora più difficile il tracciamento.
