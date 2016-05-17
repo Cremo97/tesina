@@ -4,4 +4,4 @@
 Tramite l'utilizzo di Tor è molto più difficile tracciare l'attività Internet dell'utente; di fatti l'uso di Tor è finalizzato a proteggere la **privacy** degli utenti, la loro libertà e la possibilità di condurre delle comunicazioni confidenziali senza che vengano monitorate.
 ## Caratteristiche
 
-Tor protegge gli utenti dall'analisi del traffico attraverso una rete di router, gestiti da volontari, che permettono il traffico anonimo in uscita e la realizzazione di servizi anonimi nascosti. Lo scopo di Tor è quello di rendere difficile l'analisi del traffico e proteggere così la privacy, la riservatezza delle comunicazioni e l'accessibilità dei servizi.
+Tor protegge gli utenti dall'analisi del traffico attraverso una rete di router, gestiti da volontari, che permettono il traffico anonimo in uscita e la realizzazione di servizi anonimi nascosti. 

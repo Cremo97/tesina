@@ -6,5 +6,5 @@
    * [Dimensioni](dimensioni.md)
    * [Come accedervi](come_accedervi.md)
        * [tor](tor.md)
-           * Come funziona
+           * [Come funziona](come_funziona.md)
 
