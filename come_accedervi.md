@@ -8,4 +8,4 @@ Questo programma è semplicemente disponibile sul proprio sito https://www.torpr
 ![](screen_tor.JPG)<br/>
 Arrivati a questo punto non si è ancora nel **deep web**; per farlo si deve raggiungere il "cruscotto" di internet sommerso, chiamato "**hidden wiki**", prima di tutto si deve copiare l'indirizzo: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page <br/>
 Dopo di che si aprirà una schermata che conterrà la lista dei siti più rilevanti appartenenti al deep web.<br/>
-<............IMMAGINE HIDDEN WIKI.............>
+![](hidden_wiki.JPG)
