@@ -11,4 +11,4 @@ Il progetto, molto popolare per la sua accessibilità, è nato per **rendere la 
 
 I componenti aggiuntivi inclusi sono:
 * **NoScript** che permette di gestire l'esecuzione degli **script** inclusi nelle pagine web.
-* **HTTPS Everywhere** che permette di forzare l'uso di **HTTPs** per proteggersi dall'attacco exit node monitoring trattato successivamente.
+* **HTTPS Everywhere** che permette di forzare l'uso di **HTTPs** per proteggersi dall'attacco **exit node monitoring** trattato successivamente.
