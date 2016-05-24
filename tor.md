@@ -5,7 +5,7 @@ Tramite l'utilizzo di Tor è molto più difficile tracciare l'attività Internet
 ## Tor browser
 Il **Tor Browser** (in precedenza chiamato **Tor Browser Bundle**) è una versione estesa e modificata di **Mozilla Firefox** che consiste in un **browser web indipendente** che **naviga esclusivamente tramite Tor** e contiene una serie di **componenti aggiuntivi utili per proteggere la propria privacy e identità**
 
-**Tor Browser** è **portatile (dunque non richiede installazione)** ed è disponibile per Windows, OSX e GNU/Linux.
+**Tor Browser** è **portatile (dunque non richiede installazione)** ed è disponibile per **Windows**, **OSX** e **GNU/Linux**.
 
 Il progetto, molto popolare per la sua accessibilità, è nato per rendere la navigazione tramite Tor semplice e immediata per tutti.
 
