@@ -7,9 +7,8 @@ Il **Tor Browser** (in precedenza chiamato **Tor Browser Bundle**) è una versio
 
 **Tor Browser** è **portatile (dunque non richiede installazione)** ed è disponibile per **Windows**, **OSX** e **GNU/Linux**.
 
-Il progetto, molto popolare per la sua accessibilità, è nato per rendere la navigazione tramite Tor semplice e immediata per tutti.
+Il progetto, molto popolare per la sua accessibilità, è nato per **rendere la navigazione tramite Tor semplice e immediata per tutti**.
 
 I componenti aggiuntivi inclusi sono:
-
-NoScript che permette di gestire l'esecuzione degli script inclusi nelle pagine web.
-HTTPS Everywhere che permette di forzare l'uso di HTTPs per proteggersi dall'attacco exit node monitoring trattato successivamente.
+* **NoScript** che permette di gestire l'esecuzione degli **script** inclusi nelle pagine web.
+* **HTTPS Everywhere** che permette di forzare l'uso di **HTTPs** per proteggersi dall'attacco exit node monitoring trattato successivamente.
