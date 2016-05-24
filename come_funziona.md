@@ -24,10 +24,10 @@ reale destinatario fuori dalla rete Tor (ad esempio un sito web).
 
 Quando un nodo decide di spedire un pacchetto fuori dalla rete:
 * calcola la strada necessaria per raggiungere un nodo di uscita
-* prende le chiavi pubbliche di tutti i nodi sulla strada in ordine
-* crea un layer (strato) di crittografia per ogni nodo sulla strada verso l'uscita, effettivamente incapsulando il pacchetto in numerosi strati
-  * Da qui deriva il nome "Tor", che originariamente significava "The Onion Router" (l'instradatore a cipolla).
-<br/>  
+* prende le **chiavi pubbliche** di tutti i nodi sulla strada in ordine
+* **crea un layer (strato) di crittografia per ogni nodo sulla strada verso l'uscita**, effettivamente incapsulando il pacchetto in numerosi strati
+  * Da qui deriva il nome "Tor", che originariamente significava "*The Onion Router*" (l'instradatore a cipolla).
+
 Quindi:
 * A ogni hop nella rete, ogni nodo rimuove il proprio strato di crittografia. In questo modo si è certi che il pacchetto originale possa essere letto solo dal nodo di uscita e che il percorso del pacchetto sia per forza quello stabilito in origine dal mittente.
 * A partire dal momento dell'uscita di un pacchetto dalla rete Tor, esso non è più protetto dalla sicurezza della rete ma appare come originato dal nodo di uscita quindi l'identità del nodo mittente è sconosciuta.
