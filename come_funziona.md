@@ -39,8 +39,8 @@ Di conseguenza qualsiasi intercettazione di un pacchetto a metà strada del perc
 * solo il nodo del primo hop sa chi è il vero mittente del pacchetto.<br/>
 
 **Attenzione** alle intercettazioni dal nodo di uscita alla destinazione finale del pacchetto:
-* il pacchetto si trova tra il nodo di uscita e la destinazione finale
-* il pacchetto non è più incapsulato nella crittografia di Tor
-* se il pacchetto non dispone di ulteriori strati di sicurezza come TLS, OpenSSL o un sistema custom allora:
+* il pacchetto si trova tra il **nodo di uscita** e la **destinazione finale**
+* il pacchetto **non è più incapsulato nella crittografia di Tor**
+* se il pacchetto **non dispone di ulteriori strati di sicurezza come TLS, OpenSSL o un sistema custom** allora:
   * chiunque può leggere il pacchetto
-  * il nodo di uscita può leggere ed alterare il pacchetto
+  * *il* ***nodo di uscita*** *può* leggere *ed* alterare* il pacchetto*
