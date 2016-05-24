@@ -19,3 +19,28 @@ reale destinatario fuori dalla rete Tor (ad esempio un sito web).
 
 * Quando dopo si sceglie un altro sito il percorso all cambiare
 * il percorso può cambiare in qualsiasi momento al fine di rendere ancora più difficile il tracciamento.
+
+#Perché è sicuro e anonimo
+
+Quando un nodo decide di spedire un pacchetto fuori dalla rete:
+* calcola la strada necessaria per raggiungere un nodo di uscita
+* prende le chiavi pubbliche di tutti i nodi sulla strada in ordine
+* crea un layer (strato) di crittografia per ogni nodo sulla strada verso l'uscita, effettivamente incapsulando il pacchetto in numerosi strati
+  * Da qui deriva il nome "Tor", che originariamente significava "The Onion Router" (l'instradatore a cipolla).
+<br/>  
+Quindi:
+* A ogni hop nella rete, ogni nodo rimuove il proprio strato di crittografia. In questo modo si è certi che il pacchetto originale possa essere letto solo dal nodo di uscita e che il percorso del pacchetto sia per forza quello stabilito in origine dal mittente.
+* A partire dal momento dell'uscita di un pacchetto dalla rete Tor, esso non è più protetto dalla sicurezza della rete ma appare come originato dal nodo di uscita quindi l'identità del nodo mittente è sconosciuta.
+<br/>
+Di conseguenza qualsiasi intercettazione di un pacchetto a metà strada del percorso nella rete Tor è inutile poichè:
+* il pacchetto si trova incapsulato in almeno uno strato crittografico
+* il mittente e il destinatario scritti nel pacchetto intercettato sono quelli delle due estremità del singolo collegamento tra due nodi Tor, non quelli dell'originale destinatario e mittente.
+* solo l'exit node sa chi è il vero destinatario del pacchetto.
+* solo il nodo del primo hop sa chi è il vero mittente del pacchetto.<br/>
+
+**Attenzione** alle intercettazioni dal nodo di uscita alla destinazione finale del pacchetto:
+* il pacchetto si trova tra il nodo di uscita e la destinazione finale
+* il pacchetto non è più incapsulato nella crittografia di Tor
+* se il pacchetto non dispone di ulteriori strati di sicurezza come TLS, OpenSSL o un sistema custom allora:
+  * chiunque può leggere il pacchetto
+  * il nodo di uscita può leggere ed alterare il pacchetto
