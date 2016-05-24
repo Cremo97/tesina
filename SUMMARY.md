@@ -5,6 +5,6 @@
 * [Deep web](deep_web.md)
    * [Dimensioni](dimensioni.md)
    * [Come accedervi](come_accedervi.md)
-* [Tor browser](tor.md)
+* [Tor](tor.md)
    * [Come funziona](come_funziona.md)
 
