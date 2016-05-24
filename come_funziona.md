@@ -20,7 +20,7 @@ reale destinatario fuori dalla rete Tor (ad esempio un sito web).
 * Quando dopo si sceglie un altro sito il percorso all cambiare
 * il percorso può cambiare in qualsiasi momento al fine di rendere ancora più difficile il tracciamento.
 
-#Perché è sicuro e anonimo
+#Perché è sicuro ed anonimo
 
 Quando un nodo decide di spedire un pacchetto fuori dalla rete:
 * calcola la strada necessaria per raggiungere un nodo di uscita
