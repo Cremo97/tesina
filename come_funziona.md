@@ -29,12 +29,12 @@ Quando un nodo decide di spedire un pacchetto fuori dalla rete:
   * Da qui deriva il nome "Tor", che originariamente significava "*The Onion Router*" (l'instradatore a cipolla).
 
 Quindi:
-* A ogni **hop** nella rete, ogni nodo rimuove il proprio strato di crittografia. In questo modo si è certi che il pacchetto originale possa essere letto solo dal **nodo di uscita** e che il percorso del pacchetto **sia per forza quello stabilito in origine dal mittente**.
+* A ogni **hop** (salto) nella rete, ogni nodo rimuove il proprio strato di crittografia. In questo modo si è certi che il pacchetto originale possa essere letto solo dal **nodo di uscita** e che il percorso del pacchetto **sia per forza quello stabilito in origine dal mittente**.
 * A partire dal momento dell'uscita di un pacchetto dalla rete Tor, esso non è più protetto dalla sicurezza della rete ma appare come originato dal **nodo di uscita** quindi l'identità del **nodo** mittente è sconosciuta.
 <br/>
 Di conseguenza qualsiasi intercettazione di un pacchetto a metà strada del percorso nella rete Tor è inutile poichè:
-* il pacchetto si trova incapsulato in almeno uno strato crittografico
-* il mittente e il destinatario scritti nel pacchetto intercettato sono quelli delle due estremità del singolo collegamento tra due nodi Tor, non quelli dell'originale destinatario e mittente.
+* il pacchetto si trova **incapsulato in almeno uno strato crittografico**
+* il mittente e il destinatario scritti nel** pacchetto intercettato** sono quelli delle **due estremità del singolo collegamento tra due nodi Tor**, non quelli dell'originale destinatario e mittente.
 * solo l'exit node sa chi è il vero destinatario del pacchetto.
 * solo il nodo del primo hop sa chi è il vero mittente del pacchetto.<br/>
 
