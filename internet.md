@@ -2,7 +2,7 @@
 ---
 ###definizione
 
-Generalmente definita, Internet è la "rete delle reti", un insieme di reti di computer sparse in tutto il mondo e collegate tra loro, a cui possono accedere migliaia di utenti per scambiare tra loro informazioni binarie di vario tipo. <br/>
+Generalmente definita, Internet è la "rete delle reti", un insieme di computer sparse in tutto il mondo e collegate tra loro, a cui possono accedere migliaia di utenti per scambiare tra loro informazioni binarie di vario tipo. <br/>
 Tecnicamente la definizione più corretta di Internet è forse quella di una federazione o un insieme di reti in grado di comunicare utilizzando il set di protocolli TCP/IP.
 
 ###suddivisione
