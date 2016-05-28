@@ -8,5 +8,5 @@
 * [Tor](tor.md)
    * [Come funziona](come_funziona.md)
    * [Tor Mail](tor_mail.md)
-   * Limitazioni e Problemi
+   * [Limitazioni e Problemi](limitazioni_e_problemi.md)
 
