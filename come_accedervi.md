@@ -7,7 +7,7 @@ Per accedervi abbiamo bisogno di software "speciali", il più diffuso è **Tor b
 Questo programma è semplicemente disponibile sul proprio sito https://www.torproject.org/ nella sezione dei download. Al termine dell'installazione si aprirà una pagina simile a **Mozilla Firefox** (come illustrato appena dopo).<br/><br/><br/><br/>
 ![](screen_tor.JPG)<br/>
 Arrivati a questo punto non si è ancora nel **deep web**; per farlo si deve raggiungere il "cruscotto" di internet sommerso, chiamato "**hidden wiki**", prima di tutto si deve copiare l'indirizzo: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page <br/>
-Dopo di che si aprirà una schermata che conterrà la lista dei siti più rilevanti appartenenti al deep web.<br/><br/>
+Dopo di che si aprirà una schermata che conterrà la lista dei **siti più rilevanti** appartenenti al deep web.<br/><br/>
 ![](hidden_wiki.JPG)
 <br/> <br/>
-Quindi si può scegliere il sito che si vuole esplorare, i link sono suddivisi in base alla tipologia del contenuto, che può essere della tipologia comune come finanza ad adult, droga od armi.
+Ora si potrà esplorare qualsiasi sito che rientrerà nella hidden wiki. I link sono suddivisi in base alla tipologia del contenuto, che potrà appartenere ad una tipologia comune come finanza od a una più forte adult, droga od armi.
