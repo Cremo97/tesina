@@ -9,3 +9,5 @@ Questo programma è semplicemente disponibile sul proprio sito https://www.torpr
 Arrivati a questo punto non si è ancora nel **deep web**; per farlo si deve raggiungere il "cruscotto" di internet sommerso, chiamato "**hidden wiki**", prima di tutto si deve copiare l'indirizzo: http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page <br/>
 Dopo di che si aprirà una schermata che conterrà la lista dei siti più rilevanti appartenenti al deep web.<br/><br/>
 ![](hidden_wiki.JPG)
+<br/> <br/>
+Quindi si può scegliere il sito che si vuole esplorare, i link sono suddivisi in base alla tipologia del contenuto, che può essere della tipologia comune come finanza ad adult, droga od armi.
