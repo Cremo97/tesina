@@ -11,3 +11,8 @@ Tor presenta una serie di punti deboli che vanno considerati da ogni utilizzator
 Queste considerazione non comprendono la possibilità di attacchi mirati al controllo della rete Tor che rischierebbero di compromettere l'anonimato e la privacy di tutti gli utenti.
 ##Lentezza
 ---
+La rete Tor è estremamente lenta perché:
+* ogni nodo deve sottoporre ogni pacchetto a grande quantità di operazioni di crittografia.
+* è impossibile stabilire il contenuto dei pacchetti e dunque è impossibile scartare quelli inutili o pericolosi.
+* i pacchetti sono incapsulati in numerosi strati crittografici, che aumentano di molto la dimensione dei dati da inviare.
+* potrebbe essere necessario ricalcolare spesso il percorso di routing a causa dell'instabilità dei nodi.
