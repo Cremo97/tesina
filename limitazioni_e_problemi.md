@@ -1,4 +1,4 @@
-# Limitazioni e Problemi   ![](heartbleed-onion_0.png)
+# Limitazioni e Problemi   
 ---
 ##Punti deboli
 ---
