@@ -1,6 +1,5 @@
-# Limitazioni e Problemi
+# Limitazioni e Problemi 
 ---
-![](heartbleed-onion_0.png)
 ##Punti deboli
 ---
 Tor presenta una serie di punti deboli che vanno considerati da ogni utilizzatore del programma:
