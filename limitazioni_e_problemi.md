@@ -9,3 +9,5 @@ Tor presenta una serie di punti deboli che vanno considerati da ogni utilizzator
 * Un utente potrebbe **lasciare indizi sulla propria identità** durante la normale navigazione sul web tramite Tor.
 <br/>
 Queste considerazione non comprendono la possibilità di attacchi mirati al controllo della rete Tor che rischierebbero di compromettere l'anonimato e la privacy di tutti gli utenti.
+##Lentezza
+---
