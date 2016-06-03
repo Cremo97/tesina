@@ -16,3 +16,4 @@ La rete Tor è estremamente lenta perché:
 * è impossibile stabilire il contenuto dei pacchetti e dunque è impossibile scartare quelli inutili o pericolosi.
 * i pacchetti sono incapsulati in numerosi strati crittografici, che aumentano di molto la dimensione dei dati da inviare.
 * potrebbe essere necessario ricalcolare spesso il percorso di routing a causa dell'instabilità dei nodi.
+Per questi motivi è anche possibile saturare la rete con dati inutili come deterrente per gli utenti di Tor.
