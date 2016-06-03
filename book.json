@@ -1,4 +1,4 @@
 {
     "plugins": ["mathjax"]
+    "pluginsConfig": ["pdf.pageNumbers"]
 }
-pdf.pageNumbers
