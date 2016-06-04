@@ -1,7 +1,6 @@
 # Limitazioni e Problemi   ![](heartbleed-onion_0.png)
 ---
 ##Punti deboli
----
 <hr border-width: 1px/>
 Tor presenta una serie di punti deboli che vanno considerati da ogni utilizzatore del programma:
 * Gli **exit node** possono leggere tutto il traffico di tutti gli utenti tor che li usano agendo effettivamente da **man in the middle** per la natura stessa del protocollo.
