@@ -6,4 +6,4 @@ Al momento dell'iscrizione non è richiesto alcun tipo di dati personali in modo
 
 ![](Tor_Mail_screenshot.png)
 <br/>
-Freedom hosting e di conseguenza questo servizio sono stati oscurati dall'FBI
+##Freedom hosting
