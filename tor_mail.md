@@ -5,3 +5,5 @@ L'anonimato di tormail si basa su dei server monouso comprati anonimamente (free
 Al momento dell'iscrizione non è richiesto alcun tipo di dati personali in modo da non poter essere in alcun modo rintracciabili se terzi venissero a conoscenza dell'esistenza dell'account.<br/>
 
 ![](Tor_Mail_screenshot.png)
+<br/>
+Freedom hosting e di conseguenza questo servizio sono stati oscurati dall'FBI
