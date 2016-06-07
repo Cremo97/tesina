@@ -9,4 +9,4 @@ Al momento dell'iscrizione non è richiesto alcun tipo di dati personali in modo
 
 ##Freedom hosting
 ---
-Creato nel 2008, Freedom hosting toccò il suo apice nell'agosto del 2013 ed è stato il più importante sito di web hosting della rete Tor
+Creato nel 2008, **Freedom hosting** toccò il suo apice nell'agosto del 2013 ed è stato il più importante sito di **web hosting** della rete **Tor**.
