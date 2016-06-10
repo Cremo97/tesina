@@ -2,4 +2,20 @@
 ---
 Gareth Owen, dopo uno studio tenutosi nel dicembre 2014 dall'università di Portsmouth, ha scoperto che il **contenuto più frequentemente richiesto** su Tor era la **pornografia infantile**, seguito dal **mercato nero**, mentre i siti con il più alto traffico sono quelli dedicati alle **botnet**. Molti i siti di controinformazione, come forum di discussione politica. I siti più prolifici sono quelli associati ai Bitcoin, frode ed E-commerce.
 
-Uno studio più recente febbraio 2016 da ricercatori del King College di Londra dà la seguente ripartizione dei contenuti da parte di un set di categoria alternativa, mettendo in evidenza l'uso illecito di .onion servizi:
+
+| **Categoria** | **percentuale (%)** |
+| -- | -- |
+| Violenza | 0.3|
+| Armi | 0.8 |
+| Social | 1:4 |
+| Hacking | 1:5 |
+| Pornografia illegittima | 2.3|
+| Nexus| 2.3
+|Estremismo|2.7|
+|Non riconosciuti|3.0|
+|Altri illeciti|3.8|
+|Finanza|6.3|
+|Droga	|8.1|
+|Altro|19.6|
+|Non riconoscibili|47.7|
+*tabella illustrante la densità della tipologia dei siti*
