@@ -11,5 +11,5 @@ I documenti che fanno parte del **Web invisibile** possono essere divisi nelle s
 * **Pagine ad accesso ristretto**, siti che richiedono una registrazione o comunque limitano l'accesso alle loro pagine impedendo che i motori di ricerca possano accedervi.
 * **Script**, pagine accedibili solo da link generati da altre pagine.
 * **Software**, pagine al quale vi si può accedere solo tramite software speciali (Tor di cui parlerò dopo).
-* **Contenuti non collegati**, pagine che non sono linkate da nessun'altra pagina (Ebook di informatica Galilei crema).
-* **Database web**, database collegati a siti web.
+* **Contenuti non collegati**, pagine che non sono collegate a nessun'altra pagina (Ebook di informatica Galilei crema).
+* **Contenuti banditi**,di questa categoria fanno parte siti pedo-pornografico o snuff, commercio e produzione illegale di droghe e armi, siti sottoposti a censure governative, siti di warez e malware.
