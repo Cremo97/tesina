@@ -9,6 +9,6 @@ Il **deep web** (o Web sommerso ), spesso confuso con il Dark Web (che è invece
 I documenti che fanno parte del **Web invisibile** possono essere divisi nelle seguenti categorie:
 * **Contextual Web**, pagine che variano in base a diversi parametri (indirizzo IP o la cronologia di navigazione precedente).
 * **pagine dinamiche**, pagine che cambiano in base all'azione dell'utente.
-* **Pagine ad accesso ristretto**
+* **Pagine ad accesso ristretto**, pagine al quale vi si può accedere solo tramite alcuni metodi (CAPTCHAs).
 * **Script**
 * **Contenuti non di testo**
