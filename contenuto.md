@@ -1,5 +1,5 @@
 # Contenuto
 ---
-Gareth Owen, dopo uno studio tenutosi nel dicembre 2014 dall'università di Portsmouth, ha scoperto che il **contenuto più frequentemente richiesto** su Tor era la **pornografia infantile**, seguito dal **mercato nero**, mentre i siti con il più alto traffico sono quelli dedicati alle **botnet**. Molti i siti di controinformazione mantenuti da "talpe", come forum di discussione politica. I siti più prolifici sono quelli associati a Bitcoin, frode ed E-commerce. Per contrastare la tendenza di contenuti controversi, l'artista Cybertwee collettiva tenuto una vendita di torte su un sito di cipolla. [23]
+Gareth Owen, dopo uno studio tenutosi nel dicembre 2014 dall'università di Portsmouth, ha scoperto che il **contenuto più frequentemente richiesto** su Tor era la **pornografia infantile**, seguito dal **mercato nero**, mentre i siti con il più alto traffico sono quelli dedicati alle **botnet**. Molti i siti di controinformazione, come forum di discussione politica. I siti più prolifici sono quelli associati ai Bitcoin, frode ed E-commerce.
 
 Uno studio più recente febbraio 2016 da ricercatori del King College di Londra dà la seguente ripartizione dei contenuti da parte di un set di categoria alternativa, mettendo in evidenza l'uso illecito di .onion servizi:
