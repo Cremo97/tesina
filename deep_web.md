@@ -7,7 +7,7 @@ Il **deep web** (o Web sommerso ), spesso confuso con il Dark Web (che è invece
 <br/>
 ##Da cos'è formato?
 I documenti che fanno parte del **Web invisibile** possono essere divisi nelle seguenti categorie:
-* **Pagine dinamiche**, pagine che cambiano in base all'azione dell'utente.
+* **Pagine dinamiche**, ovvero pagine Web il cui contenuto viene generato sul momento dal server, che possono essere richiamati solo compilando un form o a risposta di una particolare richiesta.
 * **Pagine ad accesso ristretto**, siti che richiedono una registrazione o comunque limitano l'accesso alle loro pagine impedendo che i motori di ricerca possano accedervi.
 * **Script**, pagine accedibili solo da link generati da altre pagine.
 * **Software**, pagine al quale vi si può accedere solo tramite software speciali (Tor di cui parlerò dopo).
