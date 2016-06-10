@@ -7,9 +7,8 @@ Il **deep web** (o Web sommerso ), spesso confuso con il Dark Web (che è invece
 <br/>
 ##Da cos'è formato?
 I documenti che fanno parte del **Web invisibile** possono essere divisi nelle seguenti categorie:
-* **Contextual Web**, pagine che variano in base a diversi parametri (indirizzo IP o la cronologia di navigazione precedente).
 * **Pagine dinamiche**, pagine che cambiano in base all'azione dell'utente.
-* **Pagine ad accesso ristretto**, pagine al quale vi si può accedere solo tramite alcuni metodi (CAPTCHAs).
+* **Pagine ad accesso ristretto**, siti che richiedono una registrazione o comunque limitano l'accesso alle loro pagine impedendo che i motori di ricerca possano accedervi.
 * **Script**, pagine accedibili solo da link generati da altre pagine.
 * **Software**, pagine al quale vi si può accedere solo tramite software speciali (Tor di cui parlerò dopo).
 * **Contenuti non collegati**, pagine che non sono linkate da nessun'altra pagina (Ebook di informatica Galilei crema).
