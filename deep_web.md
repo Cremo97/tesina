@@ -12,4 +12,5 @@ I documenti che fanno parte del **Web invisibile** possono essere divisi nelle s
 * **Pagine ad accesso ristretto**, pagine al quale vi si può accedere solo tramite alcuni metodi (CAPTCHAs).
 * **Script**, pagine accedibili solo da link generati da altre pagine.
 * **software**, pagine al quale vi si può accedere solo tramite software speciali (Tor di cui parlerò dopo).
+* **contenuti non collegati**, pagine che non sono linkate da nessun'altra pagina (Ebook di informatica Galilei crema).
 * 
