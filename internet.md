@@ -1,11 +1,11 @@
 # Internet
 ---
-###definizione
+###Definizione
 
 Generalmente definita, Internet è la "rete delle reti", un insieme di computer sparsi in tutto il mondo collegati tra loro, a cui possono accedere migliaia di utenti per scambiarsi informazioni binarie di vario tipo. <br/>
 Tecnicamente la definizione più corretta di Internet è forse quella di una federazione o un insieme di reti in grado di comunicare utilizzando il set di protocolli TCP/IP.
 
-###suddivisione
+###Suddivisione
 Internet è diviso in vari livelli, ognuno con diverse caratteristiche.<br/>
 ![](Img5.png) 
 * **Livello 0 (common web):** è quella parte di internet che usiamo tutti i giorni, ospita la maggior parte dei siti che conosciamo.
