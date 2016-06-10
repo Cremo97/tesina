@@ -13,4 +13,4 @@ I documenti che fanno parte del **Web invisibile** possono essere divisi nelle s
 * **Script**, pagine accedibili solo da link generati da altre pagine.
 * **Software**, pagine al quale vi si può accedere solo tramite software speciali (Tor di cui parlerò dopo).
 * **Contenuti non collegati**, pagine che non sono linkate da nessun'altra pagina (Ebook di informatica Galilei crema).
-* **Database web**, 
+* **Database web**, database collegati a siti web.
