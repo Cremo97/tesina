@@ -5,9 +5,9 @@
 * [Deep web](deep_web.md)
    * [Dimensioni](dimensioni.md)
    * [Come accedervi](come_accedervi.md)
-* [Contenuto](contenuto.md)
 * [Tor](tor.md)
    * [Come funziona](come_funziona.md)
    * [Limitazioni e Problemi](limitazioni_e_problemi.md)
    * [Tor Mail](tor_mail.md)
+* [Contenuto](contenuto.md)
 
