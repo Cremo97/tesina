@@ -7,8 +7,8 @@ Gareth Owen, dopo uno studio tenutosi nel dicembre 2014 dall'università di Port
 | -- | -- |
 | Violenza | 0.3|
 | Armi | 0.8 |
-| Social | 1:4 |
-| Hacking | 1:5 |
+| Social | 1.2 |
+| Hacking | 1.8 |
 | Pornografia illegittima | 2.3|
 | Nexus| 2.3
 |Estremismo|2.7|
