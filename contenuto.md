@@ -17,5 +17,5 @@ Gareth Owen, dopo uno studio tenutosi nel dicembre 2014 dall'università di Port
 |Finanza|6.3|
 |Droga	|8.1|
 |Altro|19.6|
-|Non riconoscibili|47.7|
+|Non accessibili|47.7|
 *tabella illustrante la densità della tipologia dei siti*
