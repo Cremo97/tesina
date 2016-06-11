@@ -25,3 +25,6 @@ A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'uten
 |Altro|19.6|
 |Non accessibili|50.1|
 
+
+###<u>Violenza<u/>
+Questa categoria comprende i siti in cui si possono trovare **sicari** su commissione e tutorial sulla conduzione di un **assassinio** o tutorial per compiere al meglio un azione violenta.
