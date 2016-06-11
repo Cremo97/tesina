@@ -38,4 +38,4 @@ Fanno parte di questa categoria tutti quei siti che sono dediti alla **compraven
 Uno dei più importanti è **Silk Road**, che in verità è specializzato più per la vendita di sostanze stupefacenti, ma di questo vi parlerò successivamente.
 
 ###<u>Social<u/>
-Si tratta per lo più di **comunità online** dedite al file sharing di materiale illecito simili a dei forum, esistono anche blog innocui; perfino Facebook ha un proprio sito .onion
+Si tratta per lo più di **comunità online** dedite al file sharing di materiale illecito simili a dei forum, esistono anche blog innocui; perfino **Facebook** ha un proprio sito .onion
