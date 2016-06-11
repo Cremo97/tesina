@@ -41,3 +41,5 @@ Uno dei più importanti è **Silk Road**, che in verità è specializzato più p
 Si tratta per lo più di **comunità online** dedite al file sharing di materiale illecito simili a dei forum, esistono anche blog innocui; perfino **Facebook** ha un proprio sito .onion
 
 ![](facebook.png)
+
+é identico al Facebook che tutti conosciamo, l'unica cosa che cambia è l'anonimato, nel senso che i dati che inviamo ai server sono cifrati dalla rete tor, questo non vuol dire che Facebook non tenga 
