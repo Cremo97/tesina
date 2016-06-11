@@ -12,12 +12,12 @@ A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'uten
 ###Tabella illustrante la densità della tipologia dei siti
 | **Categoria** | **percentuale (%)** |
 | -- | -- |
-| Violenza | 0.3|
+| Violenza | 0.5|
 | Armi | 0.8 |
 | Social | 1.2 |
 | Hacking | 1.8 |
 | Pornografia illegittima | 2.3|
-| Nexus| 2.3
+| Nexus| 2.5|
 |Estremismo|2.7|
 |Altri illeciti|4.1|
 |Finanza|6.3|
