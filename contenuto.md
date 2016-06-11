@@ -1,7 +1,7 @@
 # Contenuto
 ---
 Dopo uno studio tenutosi nel dicembre 2014 dall'università di Portsmouth, si è scoperto che il **contenuto più frequentemente richiesto** su Tor è la **pornografia infantile**, seguito dal **mercato nero**, mentre i siti con il più alto traffico sono quelli dedicati alle **botnet**. Molti i siti di controinformazione, come forum di discussione politica. I siti più prolifici sono quelli associati ai Bitcoin, frode ed E-commerce.
-
+<br/>
 
 | **Categoria** | **percentuale (%)** |
 | -- | -- |
