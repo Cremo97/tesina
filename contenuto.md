@@ -4,8 +4,8 @@ Dopo uno studio tenutosi nel dicembre 2014 dall'università di Portsmouth, si è
 <br/>
 ##Botnet
 <.................... FOTO BOTNET............><br/>
-Una botnet è una rete formata da dispositivi informatici collegati ad Internet e **infettati** da malware, controllata da un'unica entità, il ***botmaster***.<br/> 
-A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'utente e dell'amministratore di sistema, i dispositivi vengono infettati da virus informatici o trojan i quali consentono ai loro creatori di controllare il sistema da remoto. I controllori della botnet possono in questo modo sfruttare i sistemi compromessi per scagliare attacchi distribuiti del tipo distributed denial of service (DDoS) contro qualsiasi altro sistema in rete oppure compiere altre operazioni illecite, in taluni casi agendo persino su commissione di organizzazioni criminali. I dispositivi che compongono la botnet sono chiamati bot (da roBOT) o zombie.
+Una botnet è una rete formata da dispositivi informatici collegati ad Internet ed **infettati** da malware, controllata da un'unica entità, il ***botmaster***.<br/> 
+A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'utente, i dispositivi vengono **infettati** da virus informatici o trojan i quali consentono ai loro creatori di **controllare il sistema da remoto**. I controllori della **botnet** possono in questo modo sfruttare i sistemi compromessi per scagliare attacchi distribuiti del tipo **distributed denial of service **(**DDoS**) contro qualsiasi altro sistema in rete oppure compiere altre operazioni illecite. I dispositivi che compongono la **botnet** sono chiamati **bot** (da roBOT) o **zombie**.
 
 
 
