@@ -16,7 +16,7 @@ A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'uten
 
 
 <hr />
-
+###Tabella illustrante la densità della tipologia dei siti
 | **Categoria** | **percentuale (%)** |
 | -- | -- |
 | Violenza | 0.3|
@@ -32,4 +32,4 @@ A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'uten
 |Droga	|8.1|
 |Altro|19.6|
 |Non accessibili|47.7|
-*tabella illustrante la densità della tipologia dei siti*
+
