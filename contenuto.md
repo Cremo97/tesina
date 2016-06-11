@@ -34,3 +34,4 @@ Ci sono anche delle leggende metropolitane su dei siti che riportano live di ucc
 Una **Red Room** è un sito, accessibile **solo sotto invito**, che consiste in una diretta dove il "sicario" prende ordini dagli utenti, che fanno parte della chat, e li esegue nei confronti del malcapitato; le direttive possono essere di qualsiasi tipo da "colpiscilo" ad "uccidilo".
 
 ###<u>Armi<u/>
+Fanno parte di questa categoria tutti quei siti che sono dediti alla compravendita di armi
