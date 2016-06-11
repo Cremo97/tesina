@@ -39,3 +39,5 @@ Uno dei più importanti è **Silk Road**, che in verità è specializzato più p
 
 ###<u>Social<u/>
 Si tratta per lo più di **comunità online** dedite al file sharing di materiale illecito simili a dei forum, esistono anche blog innocui; perfino **Facebook** ha un proprio sito .onion
+
+![](facebook.png)
