@@ -36,3 +36,5 @@ Una **Red Room** è un sito, accessibile **solo sotto invito**, che consiste in 
 ###<u>Armi<u/>
 Fanno parte di questa categoria tutti quei siti che sono dediti alla **compravendita di armi**. <br/>
 Uno dei più importanti è **Silk Road**, che in verità è specializzato più per la vendita di sostanze stupefacenti, ma di questo vi parlerò successivamente.
+
+###<u>Social<u/>
