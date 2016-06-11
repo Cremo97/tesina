@@ -19,7 +19,6 @@ A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'uten
 | Pornografia illegittima | 2.3|
 | Nexus| 2.3
 |Estremismo|2.7|
-|Non riconosciuti|3.0|
 |Altri illeciti|3.8|
 |Finanza|6.3|
 |Droga	|8.1|
