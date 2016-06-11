@@ -3,8 +3,9 @@
 Dopo uno studio tenutosi nel dicembre 2014 dall'università di Portsmouth, si è scoperto che il **contenuto più frequentemente richiesto** su Tor è la **pornografia infantile**, seguito dal **mercato nero**, mentre i siti con il più alto traffico sono quelli dedicati alle **botnet**. Molti i siti di controinformazione, come forum di discussione politica. I siti più prolifici sono quelli associati ai **Bitcoin**, **frode** ed **E-commerce**.
 <br/>
 ##Botnet
-<.................... FOTO BOTNET............>
-Una botnet è una rete formata da dispositivi informatici collegati ad Internet e **infettati** da malware, controllata da un'unica entità, il ***botmaster***. A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'utente e dell'amministratore di sistema, i dispositivi vengono infettati da virus informatici o trojan i quali consentono ai loro creatori di controllare il sistema da remoto. I controllori della botnet possono in questo modo sfruttare i sistemi compromessi per scagliare attacchi distribuiti del tipo distributed denial of service (DDoS) contro qualsiasi altro sistema in rete oppure compiere altre operazioni illecite, in taluni casi agendo persino su commissione di organizzazioni criminali. I dispositivi che compongono la botnet sono chiamati bot (da roBOT) o zombie.
+<.................... FOTO BOTNET............><br/>
+Una botnet è una rete formata da dispositivi informatici collegati ad Internet e **infettati** da malware, controllata da un'unica entità, il ***botmaster***.<br/> 
+A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'utente e dell'amministratore di sistema, i dispositivi vengono infettati da virus informatici o trojan i quali consentono ai loro creatori di controllare il sistema da remoto. I controllori della botnet possono in questo modo sfruttare i sistemi compromessi per scagliare attacchi distribuiti del tipo distributed denial of service (DDoS) contro qualsiasi altro sistema in rete oppure compiere altre operazioni illecite, in taluni casi agendo persino su commissione di organizzazioni criminali. I dispositivi che compongono la botnet sono chiamati bot (da roBOT) o zombie.
 
 
 
