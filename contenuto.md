@@ -8,13 +8,6 @@ Da notare l'alta difussione di siti riguardanti la **controinformazione**, come 
 Una botnet è una rete formata da dispositivi informatici collegati ad Internet ed **infettati** da malware, controllata da un'unica entità, il ***botmaster***.<br/> 
 A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'utente, i dispositivi vengono **infettati** da virus informatici o trojan i quali consentono ai loro creatori di **controllare il sistema da remoto**. I controllori della **botnet** possono in questo modo sfruttare i sistemi compromessi per scagliare attacchi distribuiti del tipo **distributed denial of service **(**DDoS**) contro qualsiasi altro sistema in rete oppure compiere altre operazioni illecite. I dispositivi che compongono la **botnet** sono chiamati **bot** (da roBOT) o **zombie**.
 
-
-
-
-
-
-
-
 <hr />
 ###Tabella illustrante la densità della tipologia dei siti
 | **Categoria** | **percentuale (%)** |
