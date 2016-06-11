@@ -42,4 +42,4 @@ Si tratta per lo più di **comunità online** dedite al file sharing di material
 
 ![](facebook.png)
 
-é identico al Facebook che tutti conosciamo, l'unica cosa che cambia è l'anonimato, nel senso che i dati che inviamo ai server sono cifrati dalla rete tor, questo non vuol dire che Facebook non tenga 
+é identico al **Facebook** che tutti conosciamo, l'unica cosa che cambia è **l'anonimato**, nel senso che i dati che inviamo ai server sono cifrati dalla rete tor, questo non vuol dire che **Facebook** non tenga traccia delle proprie pagine che visualizziamo.
