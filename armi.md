@@ -8,3 +8,5 @@ Uno dei più famosi è **The Armory**, nato nel 2012, sempre appartenente al fon
 Tuttavia si possono riperire delle armi su moltissimi altri siti, si ha solo l'imbarazzo della scelta, uno di questi può essere **Dream Market** od anche lo stesso **Silk Road** (di cui parlerò successivamente).
 <br/><br/>
 ![](weapons.JPG)
+
+Come si intuisce dall'immagine precedente questo market offre una **vasta gamma di merce**.
