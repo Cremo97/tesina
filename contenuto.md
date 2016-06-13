@@ -25,10 +25,3 @@ A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'uten
 |Altro|19.6|
 |Non accessibili|50.1|
 
-
-###<u>Social<u/>
-Si tratta per lo più di **comunità online** dedite al file sharing di materiale illecito simili a dei forum, esistono anche blog innocui; perfino **Facebook** ha un proprio sito .onion
-
-![](facebook.png)
-
-È identico al **Facebook** che tutti conosciamo, l'unica cosa che cambia è **l'anonimato**, nel senso che i dati che inviamo ai server sono cifrati dalla rete tor, questo non vuol dire che **Facebook** non tenga traccia delle proprie pagine che visualizziamo. Tuttavia questo sito, in termini di **fluidità**, non è minimamente paragonabile al comune Facebook, questa **lentezza** è data dalla rete tor.
