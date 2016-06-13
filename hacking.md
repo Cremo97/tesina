@@ -12,6 +12,7 @@ Questo è quello che scrive il sito nella sua pagina principale:
 ![](hacker.JPG)
 
 **PirateCRACKERS** è un sito molto all'avanguardia, infatti un'assistenza ed la lista dei prezzi:
+
 | **Servizio** | **Prezzo (BTC)** |
 | -- | -- |
 | Emails Hacking | 0.5 |
