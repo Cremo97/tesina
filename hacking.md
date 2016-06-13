@@ -11,7 +11,7 @@ Questo è quello che scrive il sito nella sua pagina principale:
   <br/>
 ![](hacker.JPG)
 
-**PirateCRACKERS** è un sito molto all'avanguardia, infatti un'assistenza ed la lista dei prezzi:
+**PirateCRACKERS** è un sito molto all'avanguardia, infatti ha l'assistenza e la lista dei prezzi:
 
 | **Servizio** | **Prezzo (BTC)** |
 | -- | -- |
