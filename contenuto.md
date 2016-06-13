@@ -4,7 +4,7 @@ Dopo uno studio tenutosi nel dicembre 2014 dall'università di Portsmouth, si è
 Da notare l'alta difussione di siti riguardanti la **controinformazione**, come forum di discussione politica.<br/> Infine siti più prolifici sono quelli associati ai **Bitcoin**, **frode** ed **E-commerce**. 
 <br/>
 ##Botnet
-<.................... FOTO BOTNET............><br/>
+![<.................... FOTO BOTNET............>](Botnet.png)<br/>
 Una botnet è una rete formata da dispositivi informatici collegati ad Internet ed **infettati** da malware, controllata da un'unica entità, il ***botmaster***.<br/> 
 A causa di falle nella sicurezza o per mancanza di attenzione da parte dell'utente, i dispositivi vengono **infettati** da virus informatici o trojan i quali consentono ai loro creatori di **controllare il sistema da remoto**. I controllori della **botnet** possono in questo modo sfruttare i sistemi compromessi per scagliare attacchi distribuiti del tipo **distributed denial of service **(**DDoS**) contro qualsiasi altro sistema in rete oppure compiere altre operazioni illecite. I dispositivi che compongono la **botnet** sono chiamati **bot** (da roBOT) o **zombie**.
 
