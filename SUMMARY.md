@@ -17,6 +17,6 @@
    * [Pornografia illegittima](pornografia_illegittima.md)
    * [Nexus](nexus.md)
    * [Estremismo](estremismo.md)
-   * [Altro](altro.md)
    * [Finanzia](finanzia.md)
+   * [Altro](altro.md)
 
