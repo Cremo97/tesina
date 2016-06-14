@@ -1,0 +1,21 @@
+img[alt="Tor"] {
+  max-width: 20em !important;
+}
+
+p {
+  text-align: justify;
+}
+
+/* PDF */
+
+img[alt="Syncthing"]{
+  display: none;
+}
+
+img[alt="SyncthingPDF"] {
+  width: 350px !important;
+}
+
+img[alt="Tails Desktop"] {
+  width: 400px !important;
+}
