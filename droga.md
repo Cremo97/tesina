@@ -30,5 +30,5 @@ Prima di tutto un venditore non invia a chiunque, anzi molti spacciatori si **ri
   * Pagare in contanti
   * Pesare il pacco in un chiosco automatico ed inviarlo
 
-Tutto questo dovrebbe essere abbastanza per nascondere l'identità del venditore, a meno che non ci sia un testimone che lo colga in flagrante.
-
+Tutto questo dovrebbe essere abbastanza per nascondere l'identità del venditore, a meno che non ci sia un testimone che lo colga in flagrante.<br/>
+In base alla sostanza che si sta spedendo si adottano diverse procedure, come per esempio la cannabis è chiusa in 5 sacchetti sotto vuoto immersi ogni volta nell'alcool, in ogni sacchetto sono aggiunti dei fondi di caffè così da mascherarne l'odore, infine il tutto viene messo in un sacchetto di caffé della Starbucks e poi imballate con false etichette della azienda.
