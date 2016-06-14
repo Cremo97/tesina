@@ -1,7 +1,11 @@
 {
-  "styles": {
-    "pdf": "style_pdf.css",
-    "website": "style.css"
-  },
-  "language": "it"
+    "styles": {
+        "pdf": "style_pdf.css",
+        "website": "style.css"
+    },
+    "language": "it",
+    "plugins": [
+        "mathjax"
+    ],
+    "pluginsConfig": {}
 }
