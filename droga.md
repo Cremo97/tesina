@@ -23,8 +23,8 @@ Il sito è stato lanciato per la prima volta nel 2011, dopo il grande successo c
 
 &nbsp;&nbsp;&nbsp; *-Merce sulla sinistra e categoria sulla destra.*
 
-La domanda che sorge è una: **come fanno ad inviare il pacco?**
-  Prima di tutto un venditore non invia a chiunque, anzi molti spacciatori si **rifiutano** di inviare la merce ai nuovi arrivati, c'è il rischio di entrare nella **lista nera** dei "compratori sospetti", non sempre il primo tentativo va buon fine. Quando si ha conquistato la fiducia del mercante esso invierà il pacco, ma dovrà usare diverse tecniche per far passare inosservata la sua merce:
+La domanda che sorge è una: **come fanno ad inviare il pacco?**<br/>
+Prima di tutto un venditore non invia a chiunque, anzi molti spacciatori si **rifiutano** di inviare la merce ai nuovi arrivati, c'è il rischio di entrare nella **lista nera** dei "compratori sospetti", non sempre il primo tentativo va buon fine. Quando si ha conquistato la fiducia del mercante esso invierà il pacco, ma dovrà usare diverse tecniche per far passare inosservata la sua merce:
   * Imballare la scatola senza l'obbligo di firma
   * Lasciare in bianco l'indirizzo del mittente o metterne uno falso
   * Pagare in contanti
