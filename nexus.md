@@ -1,3 +1,3 @@
 # Nexus
 ---
-Questa tipologia di si comprende tutti gli pseudo-motori di ricerca del **deep web** o semplicemente siti da cui iniziare la navigazione (Hidden Wiki).
+Questa tipologia di siti comprende tutti gli **pseudo-motori di ricerca** del **Deep Web** o semplicemente siti da cui iniziare la navigazione (Hidden Wiki).
