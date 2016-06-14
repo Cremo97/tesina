@@ -1,5 +1,3 @@
 # Nexus
 ---
-
-
-Siti web si concentra principalmente sulla collegamento ad altri siti e risorse illecite all'interno della darknet
+Questa tipologia di si comprende tutti gli pseudo-motori di ricerca del deep web o semplicemente siti da cui iniziare la navigazione (Hidden Wiki).
