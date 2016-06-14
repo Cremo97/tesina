@@ -15,3 +15,10 @@ Il sito è stato lanciato per la prima volta nel 2011, dopo il grande successo c
 ![](silk-road-2.png)
 
 ###<u>Silk Road 3.0<u/>
+
+![](silk3.PNG)
+&nbsp;&nbsp;&nbsp; *Intestazione con barra dei menù*
+
+![](silk3.1.PNG)
+
+&nbsp;&nbsp;&nbsp; *Merce sulla sinistra e categoria sulla destra*
