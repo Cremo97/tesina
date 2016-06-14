@@ -12,4 +12,4 @@ Se si vuole un motore di ricerca che operi solo nel **Deep Web** si deve utilizz
 
 ![](grams31.png)
 
-**Grams** è il **Google** del **Deep Web**, tramite ricerche incrociate tra i black market ed i database dei siti Tor esso trova le informazioni, prodotti, venditori o servizi che si stanno cercando con un'ottima velocità.
+**Grams** è il **Google** del **Deep Web** che tramite ricerche incrociate tra i black market ed i database dei siti Tor esso trova le informazioni, prodotti, venditori o servizi che si stanno cercando con un'ottima velocità.
