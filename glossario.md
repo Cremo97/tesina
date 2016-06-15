@@ -11,3 +11,5 @@ Estensione gratuita ed open-source per Chrome, Mozilla Firefox ed Opera, obbliga
 
 ###distributed denial of service (DDoS)
 Attacco informatico fatto soprattutto da Botnet che tramite la richiesta continua si esauriscono deliberatamente le risorse di un sistema informatico che fornisce un servizio ai client, ad esempio un sito web su un web server, fino a renderlo non più in grado di erogare il servizio ai client richiedenti. Praticamente è un attacco DoS su larga scala.
+
+###
