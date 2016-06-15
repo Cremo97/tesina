@@ -14,3 +14,4 @@ Le informazioni riportate in questo documento sono state prese e rielaborate dai
    * [☠PirateCRACKERS](http://pirateceo5dz3q4b.onion/)
    * [The Green Machine](http://zzq7gpluliw6iq7l.onion/threadlist.php?/) 
    * [Hidden Wiki](http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page)
+   * [Silk Road 3.0](http://reloadedudjtjvxr.onion/captcha.php)
