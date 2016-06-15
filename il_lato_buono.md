@@ -1,4 +1,4 @@
-# Il lato buono
+# Il lato buono del Deep Web
 ---
 Dopo tutto quello che ho detto precedentemente vi sarete fatti una brutta idea del Deep Web; ma **Deep Web = crimine** .<br/>
 Assolutamente **no**, si ha gia parlato dell'utilità per i giornalisti, con **Secure Drop**, che ascoltano deposizioni in modo sicuro.<br/>
