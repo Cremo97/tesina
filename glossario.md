@@ -3,6 +3,9 @@
 ###Snuff
 Letteralmente significa "spegnere lentamente", in pratica sono video amatoriali realizzati sotto compenso in cui vengono mostrate torture realmente messe in pratica durante la realizzazione del video culminanti con la morte della vittima
 
+###Warez
+Termine in gergo informatico che indica materiale, prevalentemente software, distribuito in violazione al copyright che lo ricopre.
+
 ###Licenza BSD
 Licenza che fa parte della famiglia licenze permissive per software, impone la minima restrizione sulla distribuzione del software coperto.
 
