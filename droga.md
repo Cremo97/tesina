@@ -1,7 +1,7 @@
 # Droga
 ---
 Si tratta della categoria illegale che ha la più alta densità di siti, contiene tutti quei black market che trattano o fabbricano droga, compresi anche medicinali ottenuti illegalmente tramite ricette false.<br>
-Il Black market più famoso di tutti è **Silk Road**, basato sulla moneta digitale chiamata "**bitcoin**", protagonista di un'infinita lotta contro l'**FBI** che ha già oscurato la sua prima versione ed anche la "2.0", attualmente è online la versione 3.0 che non ha l'interfaccia grafica user-frendly come le precedenti, ma ottempera comunque il suo compito.<br/>
+Il Black market più famoso di tutti è **Silk Road**, basato sulla criptovaluta chiamata "**bitcoin**", protagonista di un'infinita lotta contro l'**FBI** che ha già oscurato la sua prima versione ed anche la "2.0", attualmente è online la versione 3.0 che non ha l'interfaccia grafica user-frendly come le precedenti, ma ottempera comunque il suo compito.<br/>
 
 ![](silkroad.png)
 
