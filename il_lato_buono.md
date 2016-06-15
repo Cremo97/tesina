@@ -7,5 +7,9 @@ Poi ci sono le **Organizzazioni Non Governative** (come Amnesty International, E
 Poi ci sono le **persone normali** come voi, che ci tengono alla loro **privacy** e non vogliono essere spiate da nessuno; né a fini commerciali né per nessun altro motivo, nemmeno per ipotesi. Perché è un vostro **diritto**.<br/><br/>
 Però c'è un aspetto strano: **Perché gli Usa, che hanno inventato il deep web come rete militare l’hanno alla fine reso pubblico, mettendola di fatto a disposizione di attivisti per i diritti politici ma anche di criminali?** Io credo proprio per agevolare gli attivisti politici di paesi che facevano loro comodo, per dare loro uno strumento. Pur sapendo che il Deep Web sarebbe stato invaso dai criminali l'hanno reso pubblico comunque, perché ha recato un danno non trascurabile a quei regimi autoritari che stranamente sono in conflitto con gli Usa (Cina).
 
-#Più praticamente
+#Realtà importanti
 ---
+Tutti gli usi sopra elencati sono nobile, ma il Deep Web è stata una delle cause di tre nuove realtà importanti:
+* **Bitcoin**
+* **Anonymous**
+* **Wikileaks**
