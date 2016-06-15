@@ -6,4 +6,4 @@ Altre tipologie di siti possono essere:
 * **Siti non accessibili**: completamente inaccessibili o che non hanno contenuto visibile, include anche i siti che fisicamente esistono ma non sono ancora stato ultimati.
 
 ###<u>Secure Drop<u/>
-**Secure Drop** è
+**Secure Drop** è una piattaforma che permette ai giornalisti di comunicare in modo sicuro con gli informatori
