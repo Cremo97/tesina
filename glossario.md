@@ -20,3 +20,5 @@ Etichetta numerica che identifica univocamente un dispositivo detto host collega
 
 ###Cookie
 Gettone identificativo, usato dai server web per poter riconoscere i browser durante comunicazioni con il protocollo HTTP usato per la navigazione web. Usato soprattutto per la memorizzazione delle preferenze riguardanti un sito web.
+
+###Bitcoin
