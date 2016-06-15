@@ -8,5 +8,6 @@ Le informazioni riportate in questo documento sono state prese e rielaborate dai
 * [gitbook.com/book/fazo96/anonimato-su-internet/details](https://www.gitbook.com/book/fazo96/anonimato-su-internet/details)
 * [Cryptopolitik and the Darknet - Daniel Moore & Thomas Rid](http://www.tandfonline.com/doi/abs/10.1080/00396338.2016.1142085#aHR0cDovL3d3dy50YW5kZm9ubGluZS5jb20vZG9pL3BkZi8xMC4xMDgwLzAwMzk2MzM4LjIwMTYuMTE0MjA4NUBAQDA=)
 * [☠PirateCRACKERS](http://pirateceo5dz3q4b.onion/)
+* [deepdotweb.com](https://www.deepdotweb.com/)
 
 
