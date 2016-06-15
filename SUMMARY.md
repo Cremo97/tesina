@@ -20,7 +20,7 @@
    * [Finanzia](finanzia.md)
    * [Droga](droga.md)
    * [Altro](altro.md)
-* [Il lato buono](il_lato_buono.md)
+* [Il lato buono del Deep Web](il_lato_buono.md)
 * [Glossario](glossario.md)
 * [Sitografia](sitografia.md)
 
