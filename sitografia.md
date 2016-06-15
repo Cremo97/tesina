@@ -15,3 +15,9 @@ Le informazioni riportate in questo documento sono state prese e rielaborate dai
    * [The Green Machine](http://zzq7gpluliw6iq7l.onion/threadlist.php?/) 
    * [Hidden Wiki](http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page)
    * [Silk Road 3.0](http://reloadedudjtjvxr.onion/captcha.php)
+
+Le immagini presenti in questo documento sono state prese, per poi essere modificate, da:
+* [google immagini](https://www.google.it/imghp?hl=it&ei=stBgV_XxLcq5UZCeq5AD&ved=0EKouCAIoAQ)
+* [en.wikipedia.org](https://en.wikipedia.org/wiki/Main_Page)
+* screenshoot ai diversi siti del Deep Web
+
