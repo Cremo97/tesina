@@ -15,4 +15,7 @@ Attacco informatico fatto soprattutto da Botnet che tramite la richiesta continu
 ###Anonymous
 Gruppo decentralizzato di hacker attivisti (hacktivist) che ha come scopo la salvaguardia della libertà di pensiero ed espressione. Questo gruppo è causa della messa offline di molti siti pedo-pornografici del Deep Web.
 
+###Indirizzo IP
+Etichetta numerica che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l'Internet Protocol come protocollo di rete.
+
 ###
