@@ -16,4 +16,4 @@ Tutti gli usi sopra elencati sono nobile, ma il Deep Web è stata una delle caus
 
 
 ##<u>Bitcoin<u/>
-
+Bitcoin	è una valuta digitale nata nel 2008. È considerata come la prima forma di criptovaluta.
