@@ -18,4 +18,5 @@ Gruppo decentralizzato di hacker attivisti (hacktivist) che ha come scopo la sal
 ###Indirizzo IP
 Etichetta numerica che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l'Internet Protocol come protocollo di rete.
 
-###
+###Cookie
+Gettone identificativo, usato dai server web per poter riconoscere i browser durante comunicazioni con il protocollo HTTP usato per la navigazione web. Usato soprattutto per la memorizzazione delle preferenze riguardanti un sito web.
