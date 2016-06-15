@@ -1,5 +1,8 @@
 # Glossario
 ---
+###Snuff
+Letteralmente significa "spegnere lentamente", in pratica sono video amatoriali realizzati sotto compenso in cui vengono mostrate torture realmente messe in pratica durante la realizzazione del video culminanti con la morte della vittima
+
 ###Licenza BSD
 Licenza che fa parte della famiglia licenze permissive per software, impone la minima restrizione sulla distribuzione del software coperto.
 
