@@ -13,4 +13,6 @@ Estensione gratuita ed open-source per Chrome, Mozilla Firefox ed Opera, obbliga
 Attacco informatico fatto soprattutto da Botnet che tramite la richiesta continua si esauriscono deliberatamente le risorse di un sistema informatico che fornisce un servizio ai client, ad esempio un sito web su un web server, fino a renderlo non più in grado di erogare il servizio ai client richiedenti. Praticamente è un attacco DoS su larga scala.
 
 ###Anonymous
-Gruppo decentralizzato di hacker attivisti (hacktivist) che ha come scopo la salvaguardia della libertà di pensiero ed espressione. Questo gruppo è causa della messa offline di molti siti pedo-pornografici del Deep Web
+Gruppo decentralizzato di hacker attivisti (hacktivist) che ha come scopo la salvaguardia della libertà di pensiero ed espressione. Questo gruppo è causa della messa offline di molti siti pedo-pornografici del Deep Web.
+
+###
