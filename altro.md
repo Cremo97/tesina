@@ -7,7 +7,7 @@ Altre tipologie di siti possono essere:
 
 ###<u>Secure Drop<u/>
 
-
+![](156px-SecureDrop_logo.png)
 
 **Secure Drop** è una piattaforma che permette ai **giornalisti** di comunicare in modo sicuro con gli **informatori**.<br/>
 Quando un informatore si collega gli viene assegnata un nome in codice **casuale** che userà per postare la sua deposizione, gli investigatori potranno contattarlo solo tramite messaggio ed è necessario che l'informatore prenda nota del suo nome in codice.<br/>
