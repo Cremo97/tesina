@@ -9,8 +9,8 @@ Altre tipologie di siti possono essere:
 **Secure Drop** è una piattaforma che permette ai giornalisti di comunicare in modo sicuro con gli informatori.<br/>
 Quando un informatore si collega gli viene assegnata un nome in codice casuale che userà per postare la sua deposizione, gli investigatori potranno contattarlo solo tramite messaggio ed è necessario che l'informatore prenda nota del suo nome in codice.<br/>
 I giornalisti per leggere il messaggio hanno bisogno di due penne USB ed altrettanti PC, con il primo collegato alla rete Tor si fa il download del materiale cifrato tramite la chiavetta USB, sucessivamene con il secondo PC, non collegato alla rete, usando la chiavetta rimasta si decripta il materiale.<br/>
-Questa piattaforma è molto famosa, infatti è usata da giornali di alto stampo come:
-* **The new yorker**
+Questa piattaforma è molto famosa, infatti è usata da giornali e siti internet di alto stampo come:
+* **The New yorker**
 * **The Washington Post**
 * **The Guardian**
 
