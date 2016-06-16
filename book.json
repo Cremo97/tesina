@@ -7,11 +7,6 @@
     "plugins": [
         "mathjax",
         "mathjax-full"
-    ],
-    "pluginsConfig": {
-        "mathjax": {
-            "forceSVG": false,
-            "version": "2.6-latest"
-        }
-    }
+    ]
+    
 }
