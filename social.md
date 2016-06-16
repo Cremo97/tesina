@@ -1,6 +1,6 @@
 # Social
 ---
-Si tratta per lo più di **comunità online** dedite al file sharing di materiale illecito simili a dei forum, esistono anche dei blog innocui; perfino **Facebook** ha un proprio sito .onion
+Si tratta per lo più di **comunità online** dedite al file sharing di materiale illecito simili a dei forum, esistono anche dei blog innocui; perfino **Facebook** ha un proprio sito ".onion".
 
 ![](facebook.png)
 
