@@ -4,6 +4,6 @@
         "website": "style.css"
     },
     "language": "it",
-    
-    
+    "plugins": [],
+    "pluginsConfig": {}
 }
