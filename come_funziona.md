@@ -34,10 +34,10 @@ Quindi:
 
 
 Di conseguenza qualsiasi intercettazione di un pacchetto a metà strada del percorso nella rete Tor è inutile poichè:
-* Il pacchetto si trova **incapsulato in almeno uno strato crittografico**
-* Il mittente e il destinatario scritti nel** pacchetto intercettato** sono quelli delle **due estremità del singolo collegamento tra due nodi Tor**, non quelli dell'originale destinatario e mittente
-* **Solo l'exit node** sa chi è il vero *destinatario* del pacchetto
-* **Solo il nodo del primo hop** sa chi è il vero *mittente* del pacchetto<br/>
+* il pacchetto si trova **incapsulato in almeno uno strato crittografico**
+* il mittente e il destinatario scritti nel** pacchetto intercettato** sono quelli delle **due estremità del singolo collegamento tra due nodi Tor**, non quelli dell'originale destinatario e mittente
+* **solo l'exit node** sa chi è il vero *destinatario* del pacchetto
+* **solo il nodo del primo hop** sa chi è il vero *mittente* del pacchetto<br/>
 
 **Attenzione** alle intercettazioni dal nodo di uscita alla destinazione finale del pacchetto:
 * Il pacchetto si trova tra il **nodo di uscita** e la **destinazione finale**
