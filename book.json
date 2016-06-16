@@ -6,5 +6,11 @@
     "language": "it",
     "plugins": [
         "mathjax"
-    ]    
+    ],
+    "pluginsConfig": {
+        "mathjax": {
+            "forceSVG": false,
+            "version": "2.6-latest"
+        }
+    }
 }
