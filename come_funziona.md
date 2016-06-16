@@ -23,9 +23,9 @@ reale destinatario fuori dalla rete Tor (ad esempio un sito web).
 #Perché è sicuro ed anonimo
 
 Quando un nodo decide di spedire un pacchetto fuori dalla rete:
-* calcola la strada necessaria per raggiungere un nodo di uscita
-* prende le **chiavi pubbliche** di tutti i nodi sulla strada in ordine
-* **crea un layer (strato) di crittografia per ogni nodo sulla strada verso l'uscita**, effettivamente incapsulando il pacchetto in numerosi strati
+* Calcola la strada necessaria per raggiungere un nodo di uscita
+* Prende le **chiavi pubbliche** di tutti i nodi sulla strada in ordine
+* **Crea un layer (strato) di crittografia per ogni nodo sulla strada verso l'uscita**, effettivamente incapsulando il pacchetto in numerosi strati
   * Da qui deriva il nome "Tor", che originariamente significava "*The Onion Router*" (l'instradatore a cipolla).
 
 Quindi:
