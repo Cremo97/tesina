@@ -43,5 +43,5 @@ Di conseguenza qualsiasi intercettazione di un pacchetto a metà strada del perc
 * Il pacchetto si trova tra il **nodo di uscita** e la **destinazione finale**
 * Il pacchetto **non è più incapsulato nella crittografia di Tor**
 * Se il pacchetto **non dispone di ulteriori strati di sicurezza come TLS, OpenSSL o un sistema custom** allora:
-  * Chiunque può leggere il pacchetto
+  * chiunque può leggere il pacchetto
   * *il* ***nodo di uscita*** *può* leggere *ed* alterare* il pacchetto*
