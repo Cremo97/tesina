@@ -5,7 +5,7 @@
     },
     "language": "it",
     "plugins": [
-        "mathjax",
+     
         "mathjax-full"
     ]
     
