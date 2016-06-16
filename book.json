@@ -4,6 +4,8 @@
         "website": "style.css"
     },
     "language": "it",
-    "plugins": [],
+    "plugins": [
+        "mathjax"
+    ],
     "pluginsConfig": {}
 }
