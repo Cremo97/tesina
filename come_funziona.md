@@ -33,14 +33,14 @@ Quindi:
 * A partire dal momento dell'uscita di un pacchetto dalla rete Tor, esso non è più protetto dalla sicurezza della rete ma appare come originato dal **nodo di uscita** quindi l'identità del **nodo** mittente è sconosciuta.
 <br/>
 Di conseguenza qualsiasi intercettazione di un pacchetto a metà strada del percorso nella rete Tor è inutile poichè:
-* il pacchetto si trova **incapsulato in almeno uno strato crittografico**
-* il mittente e il destinatario scritti nel** pacchetto intercettato** sono quelli delle **due estremità del singolo collegamento tra due nodi Tor**, non quelli dell'originale destinatario e mittente
-* **solo l'exit node** sa chi è il vero *destinatario* del pacchetto
-* **solo il nodo del primo hop** sa chi è il vero *mittente* del pacchetto<br/>
+* Il pacchetto si trova **incapsulato in almeno uno strato crittografico**
+* Il mittente e il destinatario scritti nel** pacchetto intercettato** sono quelli delle **due estremità del singolo collegamento tra due nodi Tor**, non quelli dell'originale destinatario e mittente
+* **Solo l'exit node** sa chi è il vero *destinatario* del pacchetto
+* **Solo il nodo del primo hop** sa chi è il vero *mittente* del pacchetto<br/>
 
 **Attenzione** alle intercettazioni dal nodo di uscita alla destinazione finale del pacchetto:
-* il pacchetto si trova tra il **nodo di uscita** e la **destinazione finale**
-* il pacchetto **non è più incapsulato nella crittografia di Tor**
-* se il pacchetto **non dispone di ulteriori strati di sicurezza come TLS, OpenSSL o un sistema custom** allora:
-  * chiunque può leggere il pacchetto
+* Il pacchetto si trova tra il **nodo di uscita** e la **destinazione finale**
+* Il pacchetto **non è più incapsulato nella crittografia di Tor**
+* Se il pacchetto **non dispone di ulteriori strati di sicurezza come TLS, OpenSSL o un sistema custom** allora:
+  * Chiunque può leggere il pacchetto
   * *il* ***nodo di uscita*** *può* leggere *ed* alterare* il pacchetto*
