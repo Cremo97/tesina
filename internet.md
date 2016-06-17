@@ -10,6 +10,7 @@ Internet è diviso in vari livelli, ognuno con diverse caratteristiche:
 <br/>
 <br/> ![](livelli.png)
 <br/>
+<br/>
 * **Livello 0 (Common web):** è quella parte di internet che usiamo tutti i giorni, ospita la maggior parte dei siti che conosciamo
 * **Livello 1 (Surface web):** dove operano i server informatici e siti come Reddit, sito Internet di social news e intrattenimento dove gli utenti registrati possono pubblicare contenuti sotto forma di post testuali o di collegamenti ipertestuali
 * **Livello 2 (Bergie web):** ultimo livello accessibile senza particolari strumenti e conoscenze, ospita risultati nascosti di Google e siti di video e immagini senza censure.
