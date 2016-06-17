@@ -9,4 +9,4 @@ Tuttavia si possono riperire delle armi su moltissimi altri siti, si ha solo l'i
 <br/><br/>
 ![](weapons.JPG)
 
-Come si intuisce dall'immagine precedente questo market offre una **vasta gamma di merce**.
+Come si intuisce dall'immagine questo market offre una **vasta gamma di merce**.
