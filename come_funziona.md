@@ -18,7 +18,7 @@ reale destinatario fuori dalla rete Tor (ad esempio un sito web).
 ![](tor3.png)
 
 * Quando dopo si sceglie un altro sito il percorso può cambiare
-* Il percorso può cambiare in qualsiasi momento al fine di rendere ancora più difficile il tracciamento.
+* Il percorso può cambiare, anche, in qualsiasi momento al fine di rendere ancora più difficile il tracciamento.
 
 #Perché è sicuro ed anonimo
 
