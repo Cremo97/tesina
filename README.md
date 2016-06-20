@@ -2,4 +2,4 @@
 ---
 
 Chi almeno una volta al giorno non naviga su internet? Se vi dicessi che i contenuti a cui accedete corrispondono solo all' 1% della totalità del web?
-Ebbene si, in questa tesina dimostrerò che internet nasconde un lato oscuro.
+Ebbene si, in questo mio lavoro dimostrerò che internet nasconde un lato oscuro.
