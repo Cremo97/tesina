@@ -11,4 +11,4 @@ Arrivati a questo punto non si è ancora nel **deep web**, per farlo si deve rag
 dopo di che si aprirà una schermata che conterrà la **lista** dei **siti più rilevanti** appartenenti al **Deep web**.<br/><br/>
 ![](hidden_wiki.JPG)
 <br/> <br/>
-Ora si potrà **esplorare qualsiasi sito** che rientrerà nella hidden wiki. I link sono suddivisi in base alla tipologia del contenuto, che potrà appartenere ad una categoria comune come finanza oppure una più forte come droga, adult od armi.
+Ora si potrà **esplorare qualsiasi sito** che rientrerà nella hidden wiki. I link sono suddivisi in base alla tipologia del contenuto, che potrà appartenere ad una categoria comune come finanza oppure una più forte come droga, adult o armi.
